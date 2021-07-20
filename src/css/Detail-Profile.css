@@ -1,0 +1,30 @@
+.detail-profile-name {
+    grid-area: detailprofilenameArea;
+}
+
+.detail-profile-name > h1 {
+    font-size: 96px;
+}
+
+.detail-profile-biodata {
+    grid-area: detailprofilebiodataArea;
+    border: 1px solid black;
+    background-color: #c4c4c4;
+}
+
+.detail-profile-biodata > p {
+    padding-top: 20px;
+    font-size: 24px;
+    margin: 0 0 0 30px;
+    padding: 10px;
+}
+
+
+.detail-profile-container {
+    display: grid;
+    grid-template-areas: "detailprofilenameArea detailprofilebiodataArea";
+    grid-gap: 50px;
+    padding: 150px 0 0 100px;
+}
+
+
