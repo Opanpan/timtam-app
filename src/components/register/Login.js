@@ -32,7 +32,7 @@ export default function Register() {
   Axios.defaults.withCredentials = true;
 
   const login = () => {
-    Axios.post("http://localhost:8000/login", {
+    Axios.post("https://tim-tam-api.herokuapp.com/login", {
       email: email,
       password: password,
     }).then((res) => {

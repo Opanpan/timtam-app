@@ -59,7 +59,7 @@ export default function Register() {
       phone: phone.value,
     };
 
-    Axios.post("http://localhost:8000/register", user)
+    Axios.post("https://tim-tam-api.herokuapp.com/register", user)
       .then(() => console.log("User Create"))
       .catch((err) => console.log(err));
   };
