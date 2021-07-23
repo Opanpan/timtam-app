@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Opanpan/timtam-app/static/css/main.6f795585.chunk.css",
+    "main.js": "/Opanpan/timtam-app/static/js/main.682e227a.chunk.js",
+    "main.js.map": "/Opanpan/timtam-app/static/js/main.682e227a.chunk.js.map",
+    "runtime-main.js": "/Opanpan/timtam-app/static/js/runtime-main.18462cce.js",
+    "runtime-main.js.map": "/Opanpan/timtam-app/static/js/runtime-main.18462cce.js.map",
+    "static/js/2.9571bf9a.chunk.js": "/Opanpan/timtam-app/static/js/2.9571bf9a.chunk.js",
+    "static/js/2.9571bf9a.chunk.js.map": "/Opanpan/timtam-app/static/js/2.9571bf9a.chunk.js.map",
+    "index.html": "/Opanpan/timtam-app/index.html",
+    "static/css/main.6f795585.chunk.css.map": "/Opanpan/timtam-app/static/css/main.6f795585.chunk.css.map",
+    "static/js/2.9571bf9a.chunk.js.LICENSE.txt": "/Opanpan/timtam-app/static/js/2.9571bf9a.chunk.js.LICENSE.txt",
+    "static/media/facebook.0674d396.svg": "/Opanpan/timtam-app/static/media/facebook.0674d396.svg",
+    "static/media/gmail.cf6e9da6.svg": "/Opanpan/timtam-app/static/media/gmail.cf6e9da6.svg",
+    "static/media/logo_anamnesia.afa0681d.png": "/Opanpan/timtam-app/static/media/logo_anamnesia.afa0681d.png",
+    "static/media/twitter.b65072b5.svg": "/Opanpan/timtam-app/static/media/twitter.b65072b5.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.18462cce.js",
+    "static/js/2.9571bf9a.chunk.js",
+    "static/css/main.6f795585.chunk.css",
+    "static/js/main.682e227a.chunk.js"
+  ]
+}
